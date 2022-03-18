@@ -6,8 +6,10 @@
 package Hogar;
 
 /**
- *
- * @author Paqui Elena
+ *<h2>Práctica Control de Versiones,Refactorización y Documentación.</h2>
+ * @see <a href="https://github.com/LuisMarianoCaballeroSanchez/Vivienda">REPOSITORIO</a>
+ * @author Luis Mariano Caballero Sánchez
+ * @version 1.0
  */
 public class Vivienda {
     private double precio;
